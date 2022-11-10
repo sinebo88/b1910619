@@ -1,0 +1,31 @@
+{
+  "name": "contactbook-backend2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "knex": "^2.3.0",
+    "mysql": "^2.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinebo88/contactbook-backend2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sinebo88/contactbook-backend2/issues"
+  },
+  "homepage": "https://github.com/sinebo88/contactbook-backend2#readme",
+  "description": ""
+}
